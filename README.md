@@ -77,6 +77,8 @@
 ##  Connect With Me
 ##  GitHub Link :
     https://github.com/Harish-0401
+## LinkedIn Link :
+    https://www.linkedin.com/in/harish-s-80751037a
 
 
 
