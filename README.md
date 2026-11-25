@@ -75,11 +75,9 @@
 ---
 
 ##  Connect With Me
+##  GitHub Link :
+    https://github.com/Harish-0401
 
-<p align="left">
-<a href="https://github.com/Harish-0401">
-</a>
-</p>
 
 
 ~~~
